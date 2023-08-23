@@ -3,15 +3,11 @@ body {
     background-color: whitesmoke;
 }
 
-a {
-    
-}
-
 .title {
     text-align: center;
 }
 
-.navbar {
+.navbar, a {
     background-color:rgb(245, 202, 186);
     width: 400px;
     margin: 0 auto;
