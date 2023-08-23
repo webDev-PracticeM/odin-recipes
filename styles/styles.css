@@ -7,6 +7,10 @@ a {
     text-decoration: none;
 }
 
+.title {
+    text-align: center;
+}
+
 .link-pages {
     background-color:rgb(245, 202, 186);
 }
