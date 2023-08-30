@@ -20,9 +20,10 @@ body {
     padding:16px;
 }
 
-.image-description-container {
+.image-description-container, .ingredients-container {
     background-color: rgb(220, 221, 223);
     padding: 8px;
+    
 }
 
 .image-description-container p{
