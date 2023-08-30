@@ -26,6 +26,11 @@ body {
     outline: auto blue;
 }
 
+.image-description-container p{
+    font-size: small;
+    line-height: 0.6;
+}
+
 .image-container {
    width: auto;
    height: auto;
