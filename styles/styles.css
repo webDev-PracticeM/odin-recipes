@@ -23,7 +23,6 @@ body {
 .image-description-container {
     background-color: rgb(220, 221, 223);
     padding: 8px;
-    outline: auto blue;
 }
 
 .image-description-container p{
