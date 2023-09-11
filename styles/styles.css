@@ -7,10 +7,15 @@ body {
     text-align: center;
 }
 
-.navbar, a {
+.navbar{
     background-color:rgb(245, 202, 186);
     width: 600px;
     margin: 20px auto;
+    display: flex;
+    justify-content:space-around;
+}
+
+.navbar, a {
     padding: 8px 16px;
     color: black;
     text-decoration: none;
