@@ -11,15 +11,12 @@ body {
     background-color:rgb(245, 202, 186);
     width: 600px;
     margin: 20px auto;
+    padding: 8px 16px;
 }
 
 nav{
     display: flex;
     justify-content:space-around;
-}
-
-.navbar{
-    padding: 8px 16px;
 }
 
 .navbar a {
