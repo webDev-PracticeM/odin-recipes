@@ -11,6 +11,9 @@ body {
     background-color:rgb(245, 202, 186);
     width: 600px;
     margin: 20px auto;
+}
+
+nav{
     display: flex;
     justify-content:space-around;
 }
