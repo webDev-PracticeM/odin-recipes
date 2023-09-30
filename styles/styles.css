@@ -49,7 +49,7 @@ header li {
     padding:16px;
 }
 
-.image-description-container, .ingredients-container {
+.image-description-container, .ingredients-container, .steps-container {
     background-color: rgb(220, 221, 223);
     padding: 8px;
     margin-bottom: 20px;
