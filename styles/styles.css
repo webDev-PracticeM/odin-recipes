@@ -28,9 +28,7 @@ nav ul {
     padding: 0;
 }
 
-header li {
-    display:inline;
-}
+
 
 @media screen and (max-width: 600px) {
     nav ul {
