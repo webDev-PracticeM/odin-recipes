@@ -21,6 +21,13 @@ body {
     background-color: rgb(231, 170, 148);
     border-radius: 12px;
     border: 1px solid rgb(199, 126, 100);
+    padding: 8px;
+}
+
+.card img{
+    width:100%;
+    border-radius: 12px;
+    height:214px;
 }
 
 .name{
