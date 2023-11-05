@@ -3,7 +3,7 @@ body {
     background-color: whitesmoke;
 }
 
-.title {
+.title, h2 {
     text-align: center;
 }
 
