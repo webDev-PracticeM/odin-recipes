@@ -7,16 +7,19 @@ body {
     text-align: center;
 }
 
+/*row container for cards on index page*/
 .row{
     display: flex;
     justify-content: space-around;
 }
 
+/*column container for cards on index page*/
 .column{
     max-width: 200px;
     margin-top: 20vh;
 }
 
+/*index.html*/
 .card{
     background-color: rgb(231, 170, 148);
     border-radius: 12px;
@@ -37,6 +40,14 @@ body {
     text-align: center;
 }
 
+button{
+    background-color: rgb(204, 114, 82);
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+}
+
+/*recipe pages*/
 nav{
     background-color:rgb(245, 202, 186);
     width: 600px;
@@ -73,7 +84,6 @@ nav ul {
         margin-bottom: 10px;
     }
   }
-
 
 .container{
     background-color: rgb(189, 191, 192);
