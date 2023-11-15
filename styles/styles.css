@@ -40,6 +40,11 @@ body {
     text-align: center;
 }
 
+.card-button{
+    display: flex;
+    justify-content: center;
+}
+
 button{
     background-color: rgb(204, 114, 82);
     border: none;
