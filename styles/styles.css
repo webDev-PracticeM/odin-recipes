@@ -16,8 +16,8 @@ body {
 
 /*column container for cards on index page*/
 .column{
-    max-width: 200px;
-    margin-top: 10vh;
+    max-width: 240px;
+    margin: 10vh 0;
 }
 
 /*index.html*/
