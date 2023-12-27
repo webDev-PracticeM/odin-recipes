@@ -22,9 +22,8 @@ body {
 
 /*index.html*/
 .card{
-    background-color: rgb(231, 170, 148);
     border-radius: 12px;
-    border: 1px solid rgb(199, 126, 100);
+    border: 1px solid rgb(231, 170, 148);
     padding: 8px;
 }
 
@@ -47,7 +46,7 @@ body {
 }
 
 button{
-    background-color: rgb(204, 114, 82);
+    background-color: rgb(231, 170, 148);
     border: none;
     border-radius: 8px;
     padding: 8px 16px;
@@ -56,10 +55,13 @@ button{
 
 /*recipe pages*/
 nav{
-    background-color:rgb(245, 202, 186);
     width: 600px;
     margin: 20px auto;
     padding: 8px 16px;
+}
+
+nav, .card{
+    background-color:rgb(245, 202, 186);
 }
 
 nav a {
