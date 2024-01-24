@@ -20,7 +20,15 @@ body {
     margin: 10vh 0;
 }
 
-/*make the cards run vertically when screen size is 500px*/
+/*make cards have flex wrap when screen size 992px*/
+@media screen and (max-width: 992px){
+    .row{
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+}
+
+/*make the cards run vertically when screen size is 600px*/
 @media screen and (max-width: 600px) {
     .row{
         flex-direction: column;
