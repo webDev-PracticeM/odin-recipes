@@ -20,8 +20,8 @@ body {
     margin: 10vh 0;
 }
 
-/*TODO: make the cards run vertically when screen size is 770px*/
-@media screen and (max-width: 770px) {
+/*TODO: make the cards run vertically when screen size is 500px*/
+@media screen and (max-width: 500px) {
     .row{
         flex-direction: column;
         justify-content: space-around;
